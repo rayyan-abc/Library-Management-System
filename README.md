@@ -55,12 +55,19 @@ Stores the generated library report.
 The generated report contains:
 
 Total number of books
+
 Total available books
+
 Total borrowed books
+
 Number of books in each category
+
 Most borrowed book
+
 Number of active borrowers
+
 Timestamp of report generation
+
 
 3. Run:
 python main.py

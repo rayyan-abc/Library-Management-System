@@ -33,16 +33,27 @@ All data is permanently stored in JSON files.
 - Git & GitHub
 
 How to Run:
+
 python main.py
+
 Data Storage:
+
 The application uses two JSON files.
+
 books.json:
+
 Stores all book information.
+
 borrow_records.json:
+
 Stores all borrowing records.
+
 library_report.txt:
+
 Stores the generated library report.
+
 The generated report contains:
+
 Total number of books
 Total available books
 Total borrowed books

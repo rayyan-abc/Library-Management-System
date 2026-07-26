@@ -32,11 +32,24 @@ All data is permanently stored in JSON files.
 - Exception Handling
 - Git & GitHub
 
-How to Run
-
-1. Clone the repository.
-
-2. Open the project folder.
+How to Run:
+python main.py
+Data Storage:
+The application uses two JSON files.
+books.json:
+Stores all book information.
+borrow_records.json:
+Stores all borrowing records.
+library_report.txt:
+Stores the generated library report.
+The generated report contains:
+Total number of books
+Total available books
+Total borrowed books
+Number of books in each category
+Most borrowed book
+Number of active borrowers
+Timestamp of report generation
 
 3. Run:
 python main.py

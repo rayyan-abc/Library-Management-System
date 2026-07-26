@@ -1,0 +1,22 @@
+
+LIBRARY REPORT
+
+Total Number of Books: 2
+
+Total Available Books: 8
+
+Total Borrowed Books: 2
+
+Books in Each Category:
+- Programming: 1
+- funny: 1
+
+Most Borrowed Book: Python Programming
+Times Borrowed: 1
+
+Number of Active Borrowers: 2
+
+Timestamp:
+2026-07-26 14:04:45
+
+

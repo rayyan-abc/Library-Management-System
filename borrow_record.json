@@ -1,0 +1,20 @@
+[
+    {
+        "borrow_id": 1,
+        "book_id": "1",
+        "book_title": "Python Programming",
+        "borrower_name": "Rayyan Saeed",
+        "borrow_date": "2026-07-26 13:29:00",
+        "return_date": null,
+        "status": "Borrowed"
+    },
+    {
+        "borrow_id": 2,
+        "book_id": "2",
+        "book_title": "Tom and jerry",
+        "borrower_name": "Rayyansheikh",
+        "borrow_date": "2026-07-26 14:04:03",
+        "return_date": null,
+        "status": "Borrowed"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "book_id": "1",
+        "title": "Python Programming",
+        "author": "Rayyansaeed",
+        "category": "Programming",
+        "publication_year": 2023,
+        "total_copies": 5,
+        "available_copies": 4
+    },
+    {
+        "book_id": "2",
+        "title": "Tom and jerry",
+        "author": "Rayyan sheikh",
+        "category": "funny",
+        "publication_year": 2024,
+        "total_copies": 5,
+        "available_copies": 4
+    }
+]
